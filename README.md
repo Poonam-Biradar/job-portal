@@ -34,5 +34,3 @@
 | **Backend**  | Node.js, Express.js, MongoDB                    |
 | **Auth**     | JSON Web Tokens (JWT), bcrypt                   |
 | **Dev Tools**| Nodemon, ESLint, Concurrently, Postman          |
-
-
